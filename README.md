@@ -1,4 +1,4 @@
-[U<!crishack html>
+crishack html
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -206,4 +206,4 @@
   window.addEventListener("touchend", onPointerUp);
 </script>
 </body>
-</html>ploading EspecialSM.html…]()
+</html
