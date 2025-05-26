@@ -1,4 +1,4 @@
-[U<!DOCTYPE html>
+[U<!crishack html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
